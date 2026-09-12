@@ -1,0 +1,25 @@
+[project]
+name = "business-analytics-portfolio"
+version = "0.1.0"
+description = "Business Analytics Portfolio for BUS 751"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "jupyter>=1.0.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+]
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "black>=23.0.0",
+    "isort>=5.12.0",
+]
+[project.scripts]
+business-analytics-portfolio = "business_analytics_portfolio:main"
+
+[build-system]
+requires = ["uv_build>=0.12.13,<0.13.0"]
+build-backend = "uv_build"
