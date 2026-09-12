@@ -32,5 +32,8 @@
 
 \## Something it got wrong / a mistake I caught
 
-\- (to be filled in as the project develops)
+- I initially had Claude set my Git email to my work email address
+  (cfgravouia@lpssonline.com). I caught that this wouldn't match the
+  email on my GitHub account, and corrected it to my personal email
+  (cullengravouia811@gmail.com) before making any commits.
 
