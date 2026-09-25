@@ -43,3 +43,5 @@ logs/
 # Output files
 outputs/
 results/
+# R
+.Rhistory
