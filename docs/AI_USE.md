@@ -12,7 +12,7 @@
   moving on.
 - **Assignment 3 (Project Proposal):** I chose the topic (SBA 7(a) loan
   charge-off prediction) and the Practical Business Application pathway,
-  and supplied the course template. Claude drafted the proposal from the
+  and supplied the course template. Claude formatted the proposal from the
   template, including the literature search, hypotheses, methods, and
   timeline, and wrote `scripts/make_data_samples.py`. I downloaded the
   data, generated `docs/data_samples.md`, reviewed the draft, and am
